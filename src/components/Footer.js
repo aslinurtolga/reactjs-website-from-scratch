@@ -7,7 +7,7 @@ import {
   FaPhone,
   FaSearchLocation,
   FaTwitter,
-} from "react-icons";
+} from "react-icons/fa";
 
 const Footer = () => {
   return (
