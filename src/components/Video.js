@@ -12,7 +12,6 @@ const Video = () => {
       <div className="content">
         <h1>Space. Travel</h1>
         <p>World's first civilian space travel.</p>
-
         <div>
           <Link to="/training" className="btn">
             Training

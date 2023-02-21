@@ -19,7 +19,7 @@ const Pricing = () => {
           </Link>
         </div>
         <div className="card">
-          <h3>- Suite-</h3>
+          <h3>- Suite -</h3>
           <span className="bar"></span>
           <p className="btc">1 BTC</p>
           <p>- 3 Days -</p>
