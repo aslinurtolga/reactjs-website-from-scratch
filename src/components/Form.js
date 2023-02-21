@@ -9,10 +9,10 @@ const Form = () => {
         <input type="text" />
         <label>Email</label>
         <input type="email" />
-        <label>.Subject</label>
+        <label>Subject</label>
         <input type="text" />
         <label>Details</label>
-        <input rows="6" placeholder="Type a short message here" />
+        <textarea rows="6" placeholder="Type a short message here"/>
         <button className="btn">Submit</button>
       </form>
     </div>
