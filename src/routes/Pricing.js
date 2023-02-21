@@ -8,6 +8,7 @@ const Pricing = () => {
     <div>
         <Navbar/>
         <HeroImage heading='PRICING.' text='Choose your trip.'/>
+        <Pricing/>
         <Footer/>
     </div>
   )
