@@ -1,13 +1,13 @@
-## Check The Live Website ➡️ [Live Website](https://aslinurtolga-lastfm.netlify.app/)
+## Check The Live Website ➡️ [Live Website](https://reactjs-website-from-scratch.vercel.app/)
 
 ## SPX TRVL
 ## Animation of the Website
 
-![image](./travel.gif)
+![image](./src/assets/travel.gif)
 
 ## Visulation of the Website
 
-![image](./ss.jpg)
+![image](./src/assets/ss.jpg)
 
 ## Description
 Project aims get information about Space Travel via a React and Css.
